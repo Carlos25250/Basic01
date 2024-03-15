@@ -3,7 +3,7 @@ package mx.cesba.edu;
 
 public class HolaMundo {
     public static void main(String[]args){
-       /*
+       
        int edad = 17;
        int mayorEdad;
        
@@ -24,7 +24,7 @@ public class HolaMundo {
         
        long suma1= 987787767;
        long suma2= 877766666;
-        */
+        
     }
     
     
